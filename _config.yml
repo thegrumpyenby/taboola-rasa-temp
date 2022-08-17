@@ -46,9 +46,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
 #  email: "someone@example.com"
-   facebook: taboolarasaproject
+  facebook: taboolarasaproject
 #  github: daattali
-   twitter: TaboolaRasaProj
+  twitter: TaboolaRasaProj
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
@@ -61,7 +61,7 @@ social-network-links:
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
-   twitch: taboolarasaorg
+  twitch: taboolarasaorg
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
