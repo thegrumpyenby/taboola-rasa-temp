@@ -1,16 +1,27 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Taboola Rasa
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Taboola Rasa is a non-profit mental health advocacy project. Our main goal is to create awareness for mental health experiences and end the shame, judgement, stigma and discrimination associated with mental health concerns.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+We publish interviews with people who are sharing their mental health experiences. In a way, every mental health experience is unique, but the individual stories we tell also share common themes that help shape a broader image of mental health in society.
 
-What else do you need?
+## Changing the Bigger Picture, One Story at a Time
+In our experience, just one person opening up about their own mental health story can give others the support they need to approach their own concerns and potentially get help. Hearing and seeing someone else speak openly about mental health takes a lot of the judgement and shame away.
 
-### My story
+We also publish articles on our blog that otherwise explain mental health experiences, debunk some of the myths surrounding mental health, or simply give more information, provide resources or refer to current events or media reports.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+If you’d like to know more about what we believe in, you can read up on it in [our values](/values).
+
+## What We Can’t Do (But Others Can)
+We are not trained mental health professionals but an advocacy/awareness organisation. We cannot and do not give advice on specific issues or cases. We and our interviewees merely share thoughts and pieces of advice that have worked for some people, but this does not replace professional treatment.
+
+If you’re looking for help, please contact your local health care providers, support organisations and/or helplines.
+
+Organisations that can help you find the right care
+
+[Mind](http://mind.org.uk/) (U.K.)
+[MentalHealth.gov](https://www.mentalhealth.gov/get-help/) (U.S.)
+
+All of our content can be seen as triggering, so please peruse this website with care and aware of your own mental wellbeing.
