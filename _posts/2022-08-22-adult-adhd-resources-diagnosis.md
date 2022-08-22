@@ -5,6 +5,7 @@ subtitle: Resources to Get You Started
 thumbnail-img: /assets/img/blog/pexels-vlada-karpovich-7365454.jpg
 share-img: /assets/img/blog/pexels-vlada-karpovich-7365454.jpg
 author: Kai Katschthaler
+permalink: adult-adhd-resources-diagnosis
 ---
 
 First off, the disclaimer: IANAD (I am not a doctor), so none of this is medical advice or can replace medical advice. What this is, hopefully, is a way to help you get started with looking things up and figuring out whether you might want to seek a diagnosis or not.
