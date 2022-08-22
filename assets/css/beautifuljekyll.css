@@ -27,7 +27,7 @@ p {
   margin: 1.875rem 0;
 }
 .title {
-  color: "#FDC652"; 
+  color: "#FDC652" !important; 
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Playfair Display', 'Didot', 'Times New Roman', Times, serif;
