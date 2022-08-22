@@ -10,7 +10,7 @@ permalink: adult-adhd-resources-diagnosis
 
 First off, the disclaimer: IANAD (I am not a doctor), so none of this is medical advice or can replace medical advice. What this is, hopefully, is a way to help you get started with looking things up and figuring out whether you might want to seek a diagnosis or not.
 
-![Photo by Vlada Karpovic from Pexels](/assets/img/blog/pexels-vlada-karpovich-7365303-cover.jpeg)
+![Photo by Vlada Karpovic from Pexels](assets/img/blog/pexels-vlada-karpovich-7365303-cover.jpg)
 
 It’s a collection of resources for everyone who’s going, “oh wait, I think I might have ADHD, but what to do about it?” And it’s particularly targeted at adult afab (assigned female at birth) people because we usually have a much harder time getting diagnosed. And when we do get diagnosed it’s often quite late in life.
 
