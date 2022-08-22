@@ -2,11 +2,13 @@
 layout: post
 title: So You Think You Have ADHD? (Adult) ADHD
 subtitle: Resources to Get You Started
-cover-img: /assets/img/blog/pexels-vlada-karpovich-7365303-cover.jpeg
 thumbnail-img: /assets/img/blog/pexels-vlada-karpovich-7365454.jpg
 share-img: /assets/img/blog/pexels-vlada-karpovich-7365454.jpg
 author: Kai Katschthaler
 ---
+
+![](/assets/img/blog/pexels-vlada-karpovich-7365303-cover.jpeg)
+
 
 First off, the disclaimer: IANAD (I am not a doctor), so none of this is medical advice or can replace medical advice.
 
