@@ -25,3 +25,9 @@ Organisations that can help you find the right care
 [MentalHealth.gov](https://www.mentalhealth.gov/get-help/) (U.S.)
 
 All of our content can be seen as triggering, so please peruse this website with care and aware of your own mental wellbeing.
+
+## Who We Are
+Over the years, I’ve seen how much of a difference I could make simply by talking candidly about my mental health experiences.
+
+My open approach has given others with similar experiences the courage to speak up as well. And people who previously knew nothing about mental health concerns were often able to develop a better understanding. Taboola Rasa is my way of “taking the show on the road” and letting many different people tell their stories.
+![image](/assets/img/kai+avatar+copy.jpeg)
